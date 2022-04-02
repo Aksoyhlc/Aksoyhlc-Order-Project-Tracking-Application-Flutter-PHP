@@ -14,6 +14,8 @@ Uygulamanın/Programın mantığı basit, bir sipariş aldığınızda ya da bir
 
 
 ## Kurulum ve Yapılandırma
+Kodları indirme linki: [İndirmek İçin Tıklayın](https://github.com/Aksoyhlc/Aksoyhlc-Order-Project-Tracking-Application-Flutter-PHP/archive/refs/heads/master.zip)
+
 Öncelikle yukarıda bahsedildiği gibi PHP scriptin kurulumunu sunucunuza yapın, daha sonra uygulama içerisindeki **lib/sabitler/ext.dart** dosyası içerisinden ilgili alanları düzenleyin ve kullanmaya başlayın.
 
 Scriptin yapım videosu: [İzlemek için tıklayın](https://www.youtube.com/watch?v=Bq8sgcTbiCs&list=PLu1C97uudGy7wlNyPVvmHIAzNMZmeb8Rg)
