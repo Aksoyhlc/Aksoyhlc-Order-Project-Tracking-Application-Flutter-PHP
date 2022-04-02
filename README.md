@@ -1,16 +1,28 @@
-# istakip
 
-A new Flutter project.
 
-## Getting Started
+# Aksoyhlc Sipariş-Proje Takip Uygulaması/Programı
 
-This project is a starting point for a Flutter application.
+Bu uygulama [Aksoyhlc Sipariş-Proje Takip Scripti (PHP)](https://github.com/Aksoyhlc/Aksoyhlc-Proje-Takip) ile entegre şekilde çalışmaktadır, scripti hostinginize kurmadan bu uygulamayı ve programı kullanamazsınız. Script ile ilgili detaylara [buraya tıklayarak](https://github.com/Aksoyhlc/Aksoyhlc-Proje-Takip) ulaşabilirsiniz.
 
-A few resources to get you started if this is your first Flutter project:
+Uygulamanın/Programın mantığı basit, bir sipariş aldığınızda ya da bir projeye başladığınızda; **Siparişinizin-Projenizin**  Teslim tarihini, aciliyetini, durumunu, müşterinize ait bilgileri, projenize-siparişinize ait dosyaları, siparişinizin ücretini vs.  gibi bilgileri girip aldığınız işe dair bütün bilgileri tek bir yerden kontrol edebileceksiniz. Aynı zamanda ister mobil uygulama ister web sitesi üzerinden istediğiniz yerden istediğiniz zaman işlem yapabileceksiniz.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Kurulum ve Yapılandırma
+Öncelikle yukarıda bahsedildiği gibi PHP scriptin kurulumunu sunucunuza yapın, daha sonra uygulama içerisindeki **lib/sabitler/ext.dart** dosyası içerisinden ilgili alanları düzenleyin ve kullanmaya başlayın.
+
+Scriptin yapım videosu: [İzlemek için tıklayın](https://www.youtube.com/watch?v=Bq8sgcTbiCs&list=PLu1C97uudGy7wlNyPVvmHIAzNMZmeb8Rg)
+Mobil uygulama/program yapım videosu: [İzlemek için tıklayın](https://www.youtube.com/playlist?list=PLu1C97uudGy7acbVXzPejBVJVn7J7M9JR)
+
+## Information
+
+This application works in integration with [Aksoyhlc Order-Project Tracking Script (PHP)](https://github.com/Aksoyhlc/Aksoyhlc-Proje-Takip), you cannot use this application and program without installing the script on your hosting. You can reach the details about the script by [clicking here](https://github.com/Aksoyhlc/Aksoyhlc-Proje-Takip).
+
+The logic of the Application/Program is simple. When you receive an order or start a project; You will be able to check all the information about the work you have received from a single place by entering information such as the delivery date, urgency and status of your order/project, information about your customer, the files of your project/order, the price of your order, etc. At the same time, you will be able to trade from anywhere via mobile application, desktop program and website.
+
+
+## Installation and Configuration
+First of all, install the PHP script on your server as mentioned above, then edit the relevant fields in the **lib/sabitler/ext.dart** file in the application and start using it.
+
+Script making video: [Click to watch](https://www.youtube.com/watch?v=Bq8sgcTbiCs&list=PLu1C97uudGy7wlNyPVvmHIAzNMZmeb8Rg)
+Mobile application/program production video: [Click to watch](https://www.youtube.com/playlist?list=PLu1C97uudGy7acbVXzPejBVJVn7J7M9JR)
