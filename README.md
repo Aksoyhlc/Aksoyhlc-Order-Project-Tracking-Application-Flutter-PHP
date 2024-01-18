@@ -1,4 +1,5 @@
 
+
 | ![Aksoyhlc order/project tracking application](https://raw.githubusercontent.com/Aksoyhlc/Aksoyhlc-Order-Project-Tracking-Application-Flutter-PHP/master/screenshot/Screenshot_1648898670.png) | ![Aksoyhlc order/project tracking application](https://raw.githubusercontent.com/Aksoyhlc/Aksoyhlc-Order-Project-Tracking-Application-Flutter-PHP/master/screenshot/Screenshot_1648898781.png) |
 |--|--|
 | ![Aksoyhlc flutter order/project tracking application](https://raw.githubusercontent.com/Aksoyhlc/Aksoyhlc-Order-Project-Tracking-Application-Flutter-PHP/master/screenshot/Screenshot_1648898788.png) | ![enter image description here](https://raw.githubusercontent.com/Aksoyhlc/Aksoyhlc-Order-Project-Tracking-Application-Flutter-PHP/master/screenshot/Screenshot_1648898793.png) |
@@ -22,7 +23,7 @@ Scriptin yapım videosu: [İzlemek için tıklayın](https://www.youtube.com/wat
 
 Mobil uygulama/program yapım videosu: [İzlemek için tıklayın](https://www.youtube.com/playlist?list=PLu1C97uudGy7acbVXzPejBVJVn7J7M9JR)
 
-
+***🎉🟩Uygulamanın 2. versiyonu yayınlandı **[BURAYA TIKLAYARAK](https://github.com/Aksoyhlc/Order-Project-Tracking)** diğer versiyonu da inceleyebilirsiniz.🟩🎉***
 
 ## Information
 
@@ -39,3 +40,5 @@ First of all, install the PHP script on your server as mentioned above, then edi
 Script making video: [Click to watch](https://www.youtube.com/watch?v=Bq8sgcTbiCs&list=PLu1C97uudGy7wlNyPVvmHIAzNMZmeb8Rg)
 
 Mobile application/program production video: [Click to watch](https://www.youtube.com/playlist?list=PLu1C97uudGy7acbVXzPejBVJVn7J7M9JR)
+
+**🎉🟩 The 2nd version of the application has been published. You can also check out the other version by [CLICKING HERE](https://github.com/Aksoyhlc/Order-Project-Tracking). 🎉🟩**
